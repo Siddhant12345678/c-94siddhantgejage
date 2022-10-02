@@ -1,0 +1,33 @@
+img{
+    width: 100px;
+    height: 100px;
+}
+body{
+    background-image: url(op.png);
+    background-position: center;
+    background-size: cover;
+    padding-left: 500px;
+    background-color: rgb(193, 193, 254);
+}
+#div_change{
+    background-color: rgb(155, 248, 255);
+    padding-top: 50px;
+    border-radius: 10px;
+    float: right;
+    margin-right: 120px;
+    margin-top: 100px;
+    border: 10px solid white;
+}
+#login_button:hover{
+    color: white;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+}
+h4{
+    color: red;
+}
+h5{
+    color: blue;
+}
